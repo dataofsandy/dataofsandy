@@ -7,9 +7,9 @@
 📌 Always learning & building new projects!  
 <!-- 🚀 Exploring AI, ML, and Business Intelligence   -->
 
-<!-- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sandydata/) | [Portfolio](your-portfolio-link) -->
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/sandydata/) | [Portfolio](http://datascienceportfol.io/sandy)
 
-📫 Connect with me: <a href="https://www.linkedin.com/in/sandydata/" target="_blank">LinkedIn</a>
+<!-- 📫 Connect with me: <a href="https://www.linkedin.com/in/sandydata/" target="_blank">LinkedIn</a> -->
 
 Hi, I’m Sandy! I have a background in Computer Science and Information Technology, and Master’s in Information Systems specializing in Data Analytics. I’m passionate about turning raw data into meaningful insights using SQL, Python, and visualization tools like Power BI and Tableau. Currently, I’m exploring AI, machine learning, and business intelligence to enhance data-driven decision-making. Always eager to learn, build, and collaborate on exciting projects!
 
