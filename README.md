@@ -1,6 +1,6 @@
 # 🏄‍♂️ Saundarya Shrestha
 
-**`Data Enthusiast | Data Analyst `**  
+**`Data Enthusiast | Data Analyst | ICT Support `**  
 
 💻 Master of Information Systems (Data Analytics)  
 📊 Passionate about Excel, SQL, Python, and Data Visualization  
